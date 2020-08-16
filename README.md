@@ -16,5 +16,5 @@ This is a test app that was created during App Development Bootcamp. The main go
 * Error handling in Swift.
 
 <p align="center">
-  ![Xylophone_animation](Documentation/Xylophone.gif)
+  <img width="460" height="300" src="Documentation/Xylophone.gif">
 </p>
